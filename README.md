@@ -1,3 +1,3 @@
 # cobol-exercises
-compile: cobc -x hello.cob
-run: ./hello
+## compile: cobc -x hello.cob
+## run: ./hello
